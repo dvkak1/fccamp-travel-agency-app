@@ -1,6 +1,6 @@
 # 🌍 Travel Agency Page
 
-A static **HTML Travel Agency landing page** built as part of the **freeCodeCamp Responsive Web Design Certification**.  
+A static **HTML Travel Agency landing page** built as part of the **Certified Full Stack Developer Curriculumn** by freeCodeCamp.  
 This project focuses on semantic HTML structure, proper sectioning, and building a realistic multi-section webpage **without CSS or JavaScript**.
 
 ---
